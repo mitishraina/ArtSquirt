@@ -2,7 +2,7 @@ import express from 'express';
 import * as dotenv from 'dotenv';
 import OpenAI from 'openai';
 // import { Configuration, OpenAIApi } from 'openai';
-
+// import { GoogleGenerativeAI } from '@google/generative-ai';
 
 dotenv.config();
 
